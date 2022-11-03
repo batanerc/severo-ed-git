@@ -10,6 +10,11 @@ html {
    column-width: auto;
 }
 
+body {
+   text-align: center;
+   column-width: 23px;
+}
+
 
 
 
