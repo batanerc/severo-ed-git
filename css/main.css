@@ -4,6 +4,11 @@
    Author's custom styles
    ========================================================================== */
 
+html {
+   background-color: aqua;
+   padding-left: 0%;
+   column-width: auto;
+}
 
 
 
